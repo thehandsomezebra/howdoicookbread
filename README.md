@@ -1,6 +1,6 @@
 # how do i cook bread
 
-You may be asking yourself this very question. well uh. first off you bake it.
+You may be asking yourself this very question.
 
 follow the recipe and you'll have a loaf of bread.
 
