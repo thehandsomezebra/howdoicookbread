@@ -74,19 +74,21 @@ _Time: 10 minutes or less, if you have gathered and identified all ingredients, 
 ## BAKE THE BREAD
 
 1. Preheat your oven to 450°F (230°C).
-2. Get your **dutch oven** and **parchement paper** ready.
-3. Shape a piece of **parchement paper** into your **dutch oven**. No need to precisely cut the **parchement paper**, just press/fold/crinkle it to "fit".
-4. Place **dough** on **parchement paper** and shape it to be a circle.
+2. Put your **dutch oven** in the **oven** to preheat that as well.
+3. Get **parchement paper** ready.
+4. Place **dough** on **parchement paper** and shape it to be a sphere/loaf that would ideally fit your **dutch oven**.
 5. Use **knife** to score an X on the top of the **dough**.
-6. Put lid on the **dutch oven** and put it in the **oven**.
-7. Using your **patience**, bake for _30 minutes_.
-8. Take the lid off of the **dutch oven**.  THIS IS HOT! USE PROTECTION!
-9. Using your **patience**, bake for another _20 minutes_.
-10. Take the **dutch oven** out of the **oven**. THIS IS HOT! USE PROTECTION!
-11. Turn off the **oven**.
-12. Your **dough** is now **bread**.
-13. Let the **bread** rest for at least _15 minutes_ while it cools.  Take note that the **bread** is still technically cooking until it has cooled off, and you do not want to disturb it.
-14. You may now move forward to `Enjoy the Bread`.
+6. Take **dutch oven** out of the **oven**. Remove the lid. THIS IS HOT! USE PROTECTION!
+7. Put **parchement paper** with **dough** on top into the **dutch oven**. THIS IS HOT! USE PROTECTION!
+8. Put lid on the **dutch oven** and put it in the **oven**. THIS IS HOT! USE PROTECTION!
+9. Using your **patience**, bake for _30 minutes_.
+10. Take the lid off of the **dutch oven**.  THIS IS HOT! USE PROTECTION!
+11. Using your **patience**, bake for another _20 minutes_.
+12. Take the **dutch oven** out of the **oven**. THIS IS HOT! USE PROTECTION!
+13. Turn off the **oven**.
+14. Your **dough** is now **bread**.
+15. Let the **bread** rest for at least _15 minutes_ while it cools.  Take note that the **bread** is still technically cooking until it has cooled off, and you do not want to disturb it.
+16. You may now move forward to `Enjoy the Bread`.
 
 
 ## ENJOY THE BREAD
